@@ -29,7 +29,7 @@ Youtube_Assistant/
 ## 🔧 Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/Youtube_Assistant.git
+   git clone https://github.com/chahalbaljinder/Youtube_Assistant.git
    cd Youtube_Assistant
    ```
 2. **Create and activate a virtual environment:**
